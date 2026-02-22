@@ -3,5 +3,5 @@ def odd_even(n):
         return "Even"
     return "Odd"
 
-n = 10
+n = 11
 print(odd_even(n))
